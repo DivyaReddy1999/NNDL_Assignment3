@@ -1,5 +1,8 @@
 # NNDL_Assignment3
 
+
+Video Link: 
+
 This Assignment is related to below asked questions: 
 1. Follow the instruction below and then report how the performance changed.(apply all at once)
 2. • Convolutional input layer, 32 feature maps with a size of 3×3 and a rectifier activation function.
