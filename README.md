@@ -1,7 +1,7 @@
 # NNDL_Assignment3
 
 
-Video Link: 
+Here is the Video Link with explantion of code along with outputs: https://drive.google.com/file/d/1riojTHkxMRap-asqFTvj9yX9vbrhHT91/view?usp=sharing
 
 This Assignment is related to below asked questions: 
 1. Follow the instruction below and then report how the performance changed.(apply all at once)
