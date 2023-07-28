@@ -1,5 +1,6 @@
 # NNDL_Assignment3
 
+Submitted by: Divya Chilukuri(700744169)
 
 Here is the Video Link with explantion of code along with outputs: https://drive.google.com/file/d/1riojTHkxMRap-asqFTvj9yX9vbrhHT91/view?usp=sharing
 
